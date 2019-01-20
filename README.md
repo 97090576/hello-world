@@ -1,2 +1,2 @@
 # hello-world
-this is my first repository in github.
+I am a huster, I am edit this for studying how to use github
